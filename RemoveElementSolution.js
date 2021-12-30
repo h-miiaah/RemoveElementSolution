@@ -10,4 +10,5 @@
             nums[count++] = nums[i];
         }
     }
+    return count;
 };
