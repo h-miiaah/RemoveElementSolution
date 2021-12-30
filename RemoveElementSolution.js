@@ -4,5 +4,5 @@
  * @return {number}
  */
  var removeElement = function(nums, val) {
-    
+    let count = 0;
 };
