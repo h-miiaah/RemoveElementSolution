@@ -12,3 +12,9 @@
     }
     return count;
 };
+
+/*
+
+- We initialize a count variable to 0.
+-We loop through the array and check if the current element is not equal to the value we want to remove.
+*/
