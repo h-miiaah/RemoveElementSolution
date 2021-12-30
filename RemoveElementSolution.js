@@ -16,5 +16,8 @@
 /*
 
 - We initialize a count variable to 0.
--We loop through the array and check if the current element is not equal to the value we want to remove.
+- We loop through the array and check if the current element is not equal to the value we want to remove.
+- If it’s not equal, we swap the current element with the element at the count index and increment the count.
+- Finally, we return the count variable which will contain the number of elements that weren’t removed.
+
 */
